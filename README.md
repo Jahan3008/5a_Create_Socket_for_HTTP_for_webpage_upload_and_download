@@ -17,8 +17,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 ## Program 
 ```
-INFANCIA FELCY P
-212223040067
+JAHAN J
+212224220040
 
 import socket
 
